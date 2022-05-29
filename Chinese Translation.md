@@ -1,4 +1,4 @@
-# Spanish Translation.
+# Chinese Translation
 ------
 ## Top Menu Bar
 ### File: 文件
